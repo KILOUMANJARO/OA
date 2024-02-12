@@ -186,7 +186,7 @@ function App() {
       </div>
       <div id="container" style={whiteBoxStyle}>
         <p className="pre-valentine">
-          Hi Sophia Abegael
+          Hi Sophia Abegael!
         </p>
         <p className="valentine">Will you be my Valentine?</p>
       </div>
