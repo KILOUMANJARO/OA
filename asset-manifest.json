@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/OA/static/css/main.03cfd861.css",
+    "main.js": "/OA/static/js/main.e9c1ec27.js",
+    "static/js/592.507787cf.chunk.js": "/OA/static/js/592.507787cf.chunk.js",
+    "static/media/kwekwek.png": "/OA/static/media/kwekwek.728bb2193922fd1aa3aa.png",
+    "static/media/cat2.gif": "/OA/static/media/cat2.6503e0ba0e25e5a2c9a8.gif",
+    "static/media/cat.gif": "/OA/static/media/cat.c990dc47293793abd0ee.gif",
+    "static/media/barbeque.png": "/OA/static/media/barbeque.37eeb91b3829f22e410e.png",
+    "static/media/sisig.png": "/OA/static/media/sisig.664ea145bd82173f5dbb.png",
+    "static/media/steak.png": "/OA/static/media/steak.99362d1ecaa332723a9c.png",
+    "static/media/sushi.png": "/OA/static/media/sushi.0b2792c3f9fe7fdcff57.png",
+    "static/media/icecream.png": "/OA/static/media/icecream.6d3698bfce21b81f2fc1.png",
+    "static/media/pizza.png": "/OA/static/media/pizza.a11bfe166decc21f29e7.png",
+    "static/media/friedchicken.png": "/OA/static/media/friedchicken.af87a15a7fb22e4fdba7.png",
+    "static/media/cebu.png": "/OA/static/media/cebu.a32dd896c63a4e588668.png",
+    "static/media/carbonara.png": "/OA/static/media/carbonara.f3d99086fbff90c1b75c.png",
+    "static/media/sofi.png": "/OA/static/media/sofi.96edb82546d81c518839.png",
+    "static/media/fries.png": "/OA/static/media/fries.cfa2d73e8cdf4ff1478b.png",
+    "static/media/chocolate.png": "/OA/static/media/chocolate.026f92e56395e69932e0.png",
+    "static/media/pasta.png": "/OA/static/media/pasta.4d254bbbe94a59bfadda.png",
+    "index.html": "/OA/index.html",
+    "main.03cfd861.css.map": "/OA/static/css/main.03cfd861.css.map",
+    "main.e9c1ec27.js.map": "/OA/static/js/main.e9c1ec27.js.map",
+    "592.507787cf.chunk.js.map": "/OA/static/js/592.507787cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03cfd861.css",
+    "static/js/main.e9c1ec27.js"
+  ]
+}
