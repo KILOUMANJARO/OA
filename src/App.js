@@ -48,7 +48,7 @@ function App() {
     heart.style.animationDuration = (Math.random() * 3) + 2 + "s"
     body.appendChild(heart);
   }
-  setInterval(createHeart, 1300);
+  setInterval(createHeart, 1000);
 
   /* code for moving button */
   const popUp = () => {
